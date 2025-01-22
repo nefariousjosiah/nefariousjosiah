@@ -42,6 +42,3 @@ I'm Josiah Taylor, an IT Specialist and aspiring cybersecurity professional with
 - [Portfolio Website](https://siahstudios.com/)  
 - [GitHub](https://github.com/nefariousjosiah)  
 - Email: [Josiahtaylr01@outlook.com](mailto:Josiahtaylr01@outlook.com)
-
-### Fun Fact  
-I automated workflows at Kaseya, reducing manual effort by 25% and improving response times by 30%. When I’m not solving IT challenges, I’m developing innovative programming projects or exploring cybersecurity advancements.
