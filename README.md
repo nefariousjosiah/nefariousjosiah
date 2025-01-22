@@ -13,7 +13,7 @@ I'm Josiah Taylor, an IT Specialist and aspiring cybersecurity professional with
   - Building innovative tools to solve complex IT and networking challenges.
 
 - 🔭 **Current Work:**  
-  - IT Technical Support Engineer / SOC Analyst I at Kaseya, configuring network monitoring tools, streamlining workflows, and enhancing system performance.  
+  - IT Technical Support Engineer at Kaseya, configuring network monitoring tools, streamlining workflows, and enhancing system performance.  
   - Developing a **C++ networking engine** and **Python tools** for security analysis and automation.
 
 - 💡 **Programming Expertise:**  
