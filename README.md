@@ -27,16 +27,6 @@ I'm Josiah Taylor, an IT Specialist and aspiring cybersecurity professional with
 - 📷 **BackGone AI:** Full-stack web app (Python, JavaScript, Flask) for removing image backgrounds and converting them to high-quality PNGs.  
 - 📜 **Python Keylogger:** Built with Python's `pynput` library for educational and security research purposes.
 
-### How I Can Help
-- 💬 **Ask Me About:**  
-  - IT support, network troubleshooting, and cybersecurity tools.  
-  - Programming in C++, Python, or JavaScript for real-world applications.  
-  - Automating workflows and enhancing operational efficiency.
-
-- 🤝 **Looking to Collaborate On:**  
-  - Cybersecurity projects, IT automation, and network optimization.  
-  - Open-source initiatives or tools for streamlining IT operations.
-
 ### Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/siahtaylor/)  
 - [Portfolio Website](https://siahstudios.com/)  
