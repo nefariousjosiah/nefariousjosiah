@@ -19,14 +19,9 @@ I'm Josiah Taylor, an IT Specialist and aspiring cybersecurity professional with
 - 💡 **Programming Expertise:**  
   - **Languages:** JavaScript, C++, Python, PHP, Java, C#.  
   - **Frameworks/Tools:** Flask, Node.js, AWS, Docker, React, Git.  
-  - **Databases:** MySQL, MongoDB.  
+  - **Databases:** MySQL, MongoDB.
 
-### Projects
-- 🛠 **C++ Networking Engine:** A networking engine built from scratch, allowing users to join and play games together.  
-- 🕵️ **Network Scanner / Security Analyzer:** Python-based tool to scan networks, identify connected devices, and assess security.  
-- 📷 **BackGone AI:** Full-stack web app (Python, JavaScript, Flask) for removing image backgrounds and converting them to high-quality PNGs.  
-- 📜 **Python Keylogger:** Built with Python's `pynput` library for educational and security research purposes.
-
+    
 ### Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/siahtaylor/)  
 - [Portfolio Website](https://siahstudios.com/)  
