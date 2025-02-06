@@ -9,7 +9,7 @@ I'm Josiah Taylor, an IT Specialist and aspiring cybersecurity professional with
   - **CompTIA Security+:** Experienced in network security, risk management, cryptography, and threat mitigation.
 
 - 💻 **Professional Goals:**  
-  - Advancing my career in **cybersecurity** or **help desk support** by leveraging my certifications and practical experience to improve IT infrastructure and security.  
+  - Advancing my career in **cybersecurity** or **DevOps** by leveraging my certifications and practical experience to improve IT infrastructure and security.  
   - Building innovative tools to solve complex IT and networking challenges.
 
 - 🔭 **Current Work:**  
