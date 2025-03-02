@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hey,
 
-I'm Josiah Taylor, an IT Specialist and aspiring cybersecurity professional with a strong background in technical support, network engineering, and software development. I combine hands-on IT experience with programming expertise to deliver efficient solutions and secure systems.
+I'm Josiah, i like to develops that interest me and people around me.
 
 ### About Me
 - 🔐 **Certifications:**  
