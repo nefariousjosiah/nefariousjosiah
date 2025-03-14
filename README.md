@@ -10,3 +10,4 @@ My main programming langugages are
 - Javascript
 - Java
 - SQL
+- C ++
