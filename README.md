@@ -11,3 +11,10 @@ My main programming langugages are
 - Java
 - SQL
 - C ++
+
+For certifications, i have,
+
+- CompTia A+
+- CompTia Network+
+- CompTia Security+
+- Cisco Certified Network Associate (CCNA)
