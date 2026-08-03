@@ -1,3 +1,3 @@
-## Hey,
+## Hi, I'm Josiah
 
-I fix problems with solutions.
+MS in Computer Science, graduating January 2027. I like building things; and fixing what's broken.
