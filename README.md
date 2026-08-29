@@ -6,4 +6,6 @@ Known in the software engineer space for reverse engineering as well as teaching
 
 For basics on computer graphics, check out https://gpudemo.com/
 
-https://marry.dev/ is where i showcase new 3d models
+https://marry.dev/ is where i showcase new 3d models.
+
+https://josiahtaylor.dev/ for portfolio.
