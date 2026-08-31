@@ -12,4 +12,4 @@ https://marry.dev/ is where i showcase new 3d models.
 
 https://josiahtaylor.dev/ for portfolio.
 
-What I'm currently working on: I'm currently working on "Marry" which is a game engine inspired off Rockstar's RAGE engine.
+**What I'm currently working on**: I'm currently working on "Marry" which is a game engine inspired off Rockstar's RAGE engine.
