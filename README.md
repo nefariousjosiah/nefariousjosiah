@@ -8,6 +8,4 @@ Known in the software engineer space for reverse engineering for PS2 Decomps htt
 
 For basics on computer graphics, check out https://gpudemo.com/
 
-https://josiahtaylor.dev/ for portfolio.
-
 **What I'm currently working on**: I'm currently working on "Marry" which is a game engine inspired off the RE engine. Check it out at https://marry.dev/
