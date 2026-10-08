@@ -4,7 +4,7 @@ MS in Computer Science, graduating January 2027. I like building things; and fix
 
 Open to Software Engineer positions or Systems Engineer positions
 
-Known in the software engineer space for reverse engineering for PS2 Decomps https://decomp.dev/projects
+Currently working on brining WWE SVR 2008 and 2009 to modern PC's.
 
 For basics on computer graphics, check out https://gpudemo.com/
 
