@@ -1,6 +1,6 @@
 ## Hi, I'm Josiah
 
-Currently working on bringing WWE SVR 2008 - 2010 to modern PC's.
+Currently working on bringing WWE SVR 2007 - 2010 to modern PC's.
 
 For a showcase for WWE SVR 2008 - 2010, check it out here: https://www.youtube.com/watch?v=0uveP98LFPs
 
